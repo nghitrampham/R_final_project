@@ -1,0 +1,87 @@
+---
+title: "Performance and Salaries of NBA Players"
+author: "Brandon Pearl, Nicolas Min, Ryan Ice, and Tram Pham"
+date: "December 1st, 2016"
+output:
+  ioslides_presentation: default
+  css: styles.css
+  beamer_presentation: default
+---
+\usepackage{graphicx}
+
+```{r setup, include=FALSE,}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Presentation Outline 
+- <small>Project Description</small>
+- Source of Data 
+- Methodology 
+- EDA
+- Results 
+- Conclusion
+
+## Project Description {#projectdescription .emphasized}
+- Analyzing basketball players data from the NBA League in the 2015-2016 season
+
+
+ Our Aim:  In the 2015-2016 season, how do the skills of a player relate to his salary?
+
+
+
+## Source of Data
+- Basketball Reference
+- Roster, Total, and Salaries tables
+![Source of Data](basketball.png =200x200)
+
+## Methodology - Data Acquisition
+- Two phases of webscraping
+1. Get list of team abbreviations
+2. Get the roster, salary, and totals tables via their IDs
+
+
+## Methodology - Data Cleaning
+- First we cleaned the data, then we merged the tables
+
+\begin{document}
+    \begin{figure}[b]
+   		\includegraphics[width=30mm]{raw_vs_clean.PNG}
+		 	\caption{Finite Discrete Mesh Grid} 
+ 	 	\end{figure}
+\end{document}
+
+## EDA
+- Split data into qualitative and quantitative
+- Qualitative - used dplyr and frequency to analyze
+- Quantitative - used summary() to get a summary of statistics
+
+## Data Analysis - EFF
+- EFF = (total points + total rebounds + assists + steals + blocks - missed
+field goals - missed free throws - turnovers) / (games played)
+- $$\text{EFF} = \frac{|w_{1}|x_{1}}{\sigma_{1}} + ... + \frac{|w_{8}|x_{8}}{\sigma_{8}}$$
+ where $x_{i} = \frac{\text{ basic individual statistics}}{Game Played (GP)}$
+
+![Correlation betweeen EFF vs Salary](eff_vs_salary.png)
+
+## Data Analysis - Salary Aggregates
+- Aggregated salary data by team
+![Statistical Salary for Each Team](salary_team.png)
+
+## Shiny Apps:
+- Check out our nifty apps:
+1. Team Salaries app - https://stat133.shinyapps.io/team-salaries/
+2. Statistic Salaries app - https://stat133.shinyapps.io/stat-salaries/
+
+## Results
+- EFF and salary are positively correlated (r = 0.474)
+- Experience showed relatively weak correlation with EFF (r = 0.209)
+- EFF is weakly correlated with points while strongly correlated with 
+steals (r = 0.605) and defensive rebounds (r = 0.698, r = 0.706)
+
+## Conclusions
+- While there is a positive correlation between EFF and
+salary, it is only moderate
+- Our results can help managers better decide salaries for recruits
+- We hypothesize that, in general, the salary is highly correlated 
+with the number of wins that players bring in to the team
+

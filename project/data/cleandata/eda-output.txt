@@ -1,0 +1,835 @@
+[1] "Player"
+                   Player n
+             Aaron Brooks 1
+             Aaron Gordon 1
+               Aaron Gray 1
+           Aaron Harrison 1
+            Adonis Thomas 1
+            Adreian Payne 1
+               Al Horford 1
+             Al Jefferson 1
+          Al-Farouq Aminu 1
+            Alan Anderson 1
+            Alan Williams 1
+               Alec Burks 1
+                 Alex Len 1
+           Alex Stepheson 1
+            Alexis Ajinca 1
+             Allen Crabbe 1
+               Alonzo Gee 1
+        Amar'e Stoudemire 1
+             Amir Johnson 1
+         Anderson Varejao 1
+           Andre Drummond 1
+           Andre Iguodala 1
+             Andre Miller 1
+           Andre Roberson 1
+          Andrea Bargnani 1
+             Andrew Bogut 1
+         Andrew Goudelock 1
+         Andrew Nicholson 1
+           Andrew Wiggins 1
+          Anthony Bennett 1
+            Anthony Brown 1
+            Anthony Davis 1
+           Anthony Morrow 1
+         Anthony Tolliver 1
+           Archie Goodwin 1
+              Aron Baynes 1
+            Arron Afflalo 1
+            Austin Rivers 1
+            Avery Bradley 1
+             Axel Toupane 1
+             Ben McLemore 1
+               Beno Udrih 1
+          Bismack Biyombo 1
+            Blake Griffin 1
+         Boban Marjanovic 1
+             Bobby Portis 1
+         Bojan Bogdanovic 1
+               Boris Diaw 1
+             Bradley Beal 1
+           Brandan Wright 1
+           Branden Dawson 1
+           Brandon Ashley 1
+             Brandon Bass 1
+         Brandon Jennings 1
+           Brandon Knight 1
+             Brandon Rush 1
+            Brian Roberts 1
+            Briante Weber 1
+              Brook Lopez 1
+            Bruno Caboclo 1
+             Bryce Cotton 1
+       Bryce Dejean-Jones 1
+            C.J. McCollum 1
+               C.J. Miles 1
+              C.J. Watson 1
+              C.J. Wilcox 1
+         Cameron Bairstow 1
+            Cameron Payne 1
+              Carl Landry 1
+           Carlos Delfino 1
+          Carmelo Anthony 1
+             Caron Butler 1
+           Cartier Martin 1
+         Chandler Parsons 1
+            Channing Frye 1
+       Charlie Villanueva 1
+           Chase Budinger 1
+           Chris Andersen 1
+               Chris Bosh 1
+           Chris Copeland 1
+            Chris Johnson 1
+              Chris Kaman 1
+         Chris McCullough 1
+               Chris Paul 1
+           Christian Wood 1
+              Chuck Hayes 1
+         Cleanthony Early 1
+          Cliff Alexander 1
+             Clint Capela 1
+              Cody Zeller 1
+             Cole Aldrich 1
+             Corey Brewer 1
+             Corey Walden 1
+           Cory Jefferson 1
+              Cory Joseph 1
+              Coty Clarke 1
+             Courtney Lee 1
+        Cristiano Felicio 1
+            D.J. Augustin 1
+         D'Angelo Russell 1
+            Dahntay Jones 1
+           Damian Lillard 1
+            Damien Inglis 1
+             Damjan Rudez 1
+         Danilo Gallinari 1
+            Danny Granger 1
+              Danny Green 1
+         Dante Cunningham 1
+               Dante Exum 1
+            Darion Atkins 1
+           Darrell Arthur 1
+          Darren Collison 1
+          Darrun Hilliard 1
+                David Lee 1
+               David West 1
+           DeAndre Jordan 1
+             DeJuan Blair 1
+             Delon Wright 1
+            DeMar DeRozan 1
+         DeMarcus Cousins 1
+          DeMarre Carroll 1
+          Dennis Schroder 1
+           Deron Williams 1
+           Derrick Favors 1
+             Derrick Rose 1
+         Derrick Williams 1
+             Devin Booker 1
+             Devin Harris 1
+             Devyn Marble 1
+           Dewayne Dedmon 1
+             Dion Waiters 1
+            Dirk Nowitzki 1
+             Donald Sloan 1
+       Donatas Motiejunas 1
+            Dorell Wright 1
+           Doug McDermott 1
+           Draymond Green 1
+              Drew Gooden 1
+               Duje Dukan 1
+            Dwight Howard 1
+            Dwight Powell 1
+              Dwyane Wade 1
+             E.J. Singler 1
+            E'Twaun Moore 1
+                 Ed Davis 1
+            Elfrid Payton 1
+           Elijah Millsap 1
+          Elliot Williams 1
+              Elton Brand 1
+          Emmanuel Mudiay 1
+              Enes Kanter 1
+             Eric Bledsoe 1
+              Eric Gordon 1
+            Eric Moreland 1
+              Erick Green 1
+           Ersan Ilyasova 1
+            Evan Fournier 1
+              Evan Turner 1
+             Festus Ezeli 1
+           Frank Kaminsky 1
+           Furkan Aldemir 1
+                Gal Mekel 1
+           Garrett Temple 1
+              Gary Harris 1
+                Gary Neal 1
+              George Hill 1
+             Gerald Green 1
+         Gerald Henderson 1
+           Gerald Wallace 1
+    Giannis Antetokounmpo 1
+           Glenn Robinson 1
+             Goran Dragic 1
+           Gordon Hayward 1
+             Gorgui Dieng 1
+            Grant Jerrett 1
+              Greg Monroe 1
+               Greg Smith 1
+          Greivis Vasquez 1
+          Harrison Barnes 1
+         Hassan Whiteside 1
+               Henry Sims 1
+          Hollis Thompson 1
+                Ian Clark 1
+              Ian Mahinmi 1
+            Iman Shumpert 1
+            Isaiah Canaan 1
+            Isaiah Thomas 1
+                Ish Smith 1
+               J.J. Barea 1
+             J.J. Hickson 1
+             J.J. O'Brien 1
+              J.J. Redick 1
+               J.R. Smith 1
+            Jabari Parker 1
+              Jae Crowder 1
+            Jahlil Okafor 1
+           JaKarr Sampson 1
+           Jamal Crawford 1
+            Jameer Nelson 1
+           James Anderson 1
+              James Ennis 1
+             James Harden 1
+            James Johnson 1
+              James Jones 1
+     James Michael McAdoo 1
+              James Young 1
+             Jamil Wilson 1
+           JaMychal Green 1
+         Jared Cunningham 1
+             Jared Dudley 1
+          Jared Sullinger 1
+             Jarell Eddie 1
+            Jarell Martin 1
+           Jarnell Stokes 1
+             Jarrett Jack 1
+            Jarrid Famous 1
+              Jason Smith 1
+              Jason Terry 1
+           Jason Thompson 1
+             JaVale McGee 1
+               Jeff Ayres 1
+               Jeff Green 1
+              Jeff Teague 1
+              Jeff Withey 1
+             Jerami Grant 1
+             Jeremy Evans 1
+              Jeremy Lamb 1
+               Jeremy Lin 1
+             Jerian Grant 1
+           Jerryd Bayless 1
+          Jimmer Fredette 1
+             Jimmy Butler 1
+              Joakim Noah 1
+              Jodie Meeks 1
+               Joe Harris 1
+               Joe Ingles 1
+              Joe Johnson 1
+             Joel Anthony 1
+              Joel Embiid 1
+              Joey Dorsey 1
+        Joffrey Lauvergne 1
+              John Henson 1
+             John Holland 1
+             John Jenkins 1
+                John Wall 1
+          Johnny O'Bryant 1
+                Jon Leuer 1
+            Jonas Jerebko 1
+        Jonas Valanciunas 1
+          Jonathan Holmes 1
+         Jonathon Simmons 1
+             Jordan Adams 1
+          Jordan Clarkson 1
+            Jordan Farmar 1
+          Jordan Hamilton 1
+              Jordan Hill 1
+             Jordan McRae 1
+            Jordan Mickey 1
+            Jordan Sibert 1
+          Jorge Gutierrez 1
+            Jose Calderon 1
+             Joseph Young 1
+             Josh Huestis 1
+           Josh McRoberts 1
+          Josh Richardson 1
+               Josh Smith 1
+             Jrue Holiday 1
+            Julius Randle 1
+          Justin Anderson 1
+            Justin Harper 1
+           Justin Holiday 1
+          Justise Winslow 1
+             Jusuf Nurkic 1
+           K.J. McDaniels 1
+       Karl-Anthony Towns 1
+            Kawhi Leonard 1
+            Keith Appling 1
+             Kelly Olynyk 1
+              Kelly Oubre 1
+             Kemba Walker 1
+         Kendall Marshall 1
+         Kendrick Perkins 1
+           Kenneth Faried 1
+            Kent Bazemore 1
+ Kentavious Caldwell-Pope 1
+             Kevin Durant 1
+            Kevin Garnett 1
+               Kevin Love 1
+             Kevin Martin 1
+           Kevin Seraphin 1
+             Kevon Looney 1
+          Khris Middleton 1
+             Kirk Hinrich 1
+            Klay Thompson 1
+              Kobe Bryant 1
+             Kosta Koufos 1
+      Kostas Papanikolaou 1
+           Kris Humphries 1
+       Kristaps Porzingis 1
+            Kyle Anderson 1
+              Kyle Korver 1
+               Kyle Lowry 1
+             Kyle O'Quinn 1
+             Kyle Singler 1
+             Kyrie Irving 1
+          Lamar Patterson 1
+        LaMarcus Aldridge 1
+         Lance Stephenson 1
+             Lance Thomas 1
+        Langston Galloway 1
+          Larry Nance Jr. 1
+            Larry Sanders 1
+              Lavoy Allen 1
+          Leandro Barbosa 1
+             LeBron James 1
+            Levi Randolph 1
+            Lorenzo Brown 1
+             Lou Amundson 1
+             Lou Williams 1
+         Luc Mbah a Moute 1
+           Lucas Nogueira 1
+             Luis Montero 1
+               Luis Scola 1
+             Luke Babbitt 1
+                Luol Deng 1
+           Malcolm Miller 1
+            Manu Ginobili 1
+               Marc Gasol 1
+          Marcelo Huertas 1
+            Marcin Gortat 1
+          Marco Belinelli 1
+            Marcus Morris 1
+             Marcus Smart 1
+          Marcus Thornton 1
+           Mario Chalmers 1
+            Mario Hezonja 1
+             Markel Brown 1
+          Markieff Morris 1
+        Marreese Speights 1
+       Marshall Henderson 1
+          Martell Webster 1
+          Marvin Williams 1
+            Mason Plumlee 1
+              Matt Barnes 1
+              Matt Bonner 1
+      Matthew Dellavedova 1
+         Maurice Harkless 1
+            Maurice Ndour 1
+        Metta World Peace 1
+           Meyers Leonard 1
+          Michael Beasley 1
+  Michael Carter-Williams 1
+          Michael Frazier 1
+   Michael Kidd-Gilchrist 1
+            Michale Kyser 1
+              Mike Conley 1
+            Mike Dunleavy 1
+              Mike Miller 1
+             Mike Muscala 1
+               Mike Scott 1
+            Miles Plumlee 1
+       Miroslav Raduljica 1
+          Mirza Teletovic 1
+             Mitch McGary 1
+              Mo Williams 1
+              Monta Ellis 1
+         Montrezl Harrell 1
+             Myles Turner 1
+            Nate Robinson 1
+            Nazr Mohammed 1
+          Nemanja Bjelica 1
+             Nene Hilario 1
+             Nerlens Noel 1
+            Nick Collison 1
+             Nick Johnson 1
+               Nick Young 1
+            Nicolas Batum 1
+             Nik Stauskas 1
+             Nikola Jokic 1
+           Nikola Mirotic 1
+           Nikola Pekovic 1
+           Nikola Vucevic 1
+              Noah Vonleh 1
+            Norman Powell 1
+              Norris Cole 1
+                O.J. Mayo 1
+                Omer Asik 1
+              Omri Casspi 1
+          Orlando Johnson 1
+              Otto Porter 1
+            P.J. Hairston 1
+              P.J. Tucker 1
+           Pablo Prigioni 1
+          Pat Connaughton 1
+         Patrick Beverley 1
+            Patrick Mills 1
+        Patrick Patterson 1
+                Pau Gasol 1
+              Paul George 1
+             Paul Millsap 1
+              Paul Pierce 1
+              Perry Jones 1
+             Phil Pressey 1
+           Pierre Jackson 1
+               Quincy Acy 1
+            Quincy Miller 1
+         Quincy Pondexter 1
+              R.J. Hunter 1
+              Rajon Rondo 1
+         Rakeem Christmas 1
+           Ramon Sessions 1
+               Randy Foye 1
+            Rashad Vaughn 1
+            Rasual Butler 1
+                Raul Neto 1
+             Ray McCallum 1
+           Raymond Felton 1
+           Reggie Bullock 1
+           Reggie Jackson 1
+        Richard Jefferson 1
+           Richaun Holmes 1
+              Ricky Rubio 1
+         Robert Covington 1
+             Robert Sacre 1
+            Robert Upshaw 1
+              Robin Lopez 1
+              Rodney Hood 1
+           Rodney Stuckey 1
+           Ronald Roberts 1
+  Rondae Hollis-Jefferson 1
+             Ronnie Price 1
+              Roy Hibbert 1
+                 Rudy Gay 1
+              Rudy Gobert 1
+               Russ Smith 1
+        Russell Westbrook 1
+            Ryan Anderson 1
+           Ryan Boatright 1
+             Ryan Hollins 1
+               Ryan Kelly 1
+              Salah Mejri 1
+               Sam Dekker 1
+         Samuel Dalembert 1
+               Sasha Kaun 1
+            Sasha Vujacic 1
+          Sean Kilpatrick 1
+              Serge Ibaka 1
+           Sergey Karasev 1
+               Seth Curry 1
+         Shabazz Muhammad 1
+           Shabazz Napier 1
+             Shane Larkin 1
+            Shannon Scott 1
+         Shaun Livingston 1
+       Shayne Whittington 1
+             Shelvin Mack 1
+             Solomon Hill 1
+              Sonny Weems 1
+        Spencer Dinwiddie 1
+            Spencer Hawes 1
+          Stanley Johnson 1
+            Stephen Curry 1
+              Steve Blake 1
+              Steve Novak 1
+             Steven Adams 1
+           T.J. McConnell 1
+              T.J. Warren 1
+               Taj Gibson 1
+              Tarik Black 1
+          Tayshaun Prince 1
+          Terran Petteway 1
+           Terrence Jones 1
+            Terrence Ross 1
+             Terry Rozier 1
+          Thabo Sefolosha 1
+           Thaddeus Young 1
+   Thanasis Antetokounmpo 1
+          Thomas Robinson 1
+           Tiago Splitter 1
+             Tibor Pleiss 1
+               Tim Duncan 1
+              Tim Frazier 1
+             Tim Hardaway 1
+           Timofey Mozgov 1
+            Tobias Harris 1
+            Toney Douglas 1
+               Tony Allen 1
+              Tony Parker 1
+               Tony Snell 1
+              Tony Wroten 1
+             Travis Trice 1
+           Treveon Graham 1
+             Trevor Ariza 1
+            Trevor Booker 1
+               Trey Burke 1
+               Trey Lyles 1
+         Tristan Thompson 1
+             Troy Daniels 1
+                Ty Lawson 1
+              Tyler Ennis 1
+         Tyler Hansbrough 1
+            Tyler Johnson 1
+             Tyler Zeller 1
+             Tyreke Evans 1
+           Tyson Chandler 1
+               Tyus Jones 1
+            Udonis Haslem 1
+           Victor Oladipo 1
+             Vince Carter 1
+             Vince Hunter 1
+           Walter Tavares 1
+          Wayne Ellington 1
+           Wesley Johnson 1
+          Wesley Matthews 1
+          Wesley Saunders 1
+              Will Barton 1
+      Willie Cauley-Stein 1
+              Willie Reed 1
+          Wilson Chandler 1
+           Xavier Munford 1
+              Zach LaVine 1
+            Zach Randolph 1
+            Zaza Pachulia 1
+             Zoran Dragic 1
+[1] "Team"
+ Team  n
+  ATL 18
+  BOS 22
+  BRK 20
+  CHI 14
+  CHO 18
+  CLE 18
+  DAL 20
+  DEN 22
+  DET 23
+  GSW 15
+  HOU 17
+  IND 16
+  LAC 19
+  LAL 18
+  MEM 22
+  MIA 13
+  MIL 16
+  MIN 17
+  NOP 20
+  NYK 19
+  OKC 14
+  ORL 14
+  PHI 19
+  PHO 15
+  POR 14
+  SAC 17
+  SAS 14
+  TOR 17
+  UTA 19
+  WAS 14
+[1] "Position"
+ Position  n
+        C 89
+       PF 99
+       PG 90
+       SF 93
+       SG 96
+     <NA> 57
+[1] "Country"
+ Country   n
+      AR   3
+      AU   6
+      BA   3
+      BE   1
+      BR   9
+      CA  10
+      CD   2
+      CG   1
+      CH   4
+      CM   1
+      CV   1
+      DE   3
+      DO   2
+      ES   4
+      FR   8
+      GE   1
+      GF   2
+      GR   3
+      HR   3
+      IL   1
+      IT   4
+      LT   2
+      LV   1
+      ME   2
+      MX   1
+      NG   1
+      NZ   2
+      PL   1
+      PR   1
+      RS   3
+      RU   3
+      SE   1
+      SI   3
+      SN   1
+      SS   1
+      TN   1
+      TR   2
+      UA   1
+      US 366
+      VE   1
+      VI   1
+    <NA>  57
+[1] "College"
+                                             College   n
+                            Arizona State University   2
+                                   Baylor University   2
+                                  Belmont University   1
+                                       Blinn College   1
+                                      Boston College   2
+                      Bowling Green State University   1
+                            Brigham Young University   1
+                                 Bucknell University   1
+                                   Butler University   2
+                 California State University, Fresno   3
+             California State University, Long Beach   1
+                         Central Michigan University   1
+                                  Clemson University   2
+                          Cleveland State University   1
+                               College of Charleston   1
+                           Colorado State University   1
+                                Creighton University   3
+                                    Davidson College   1
+                                     Duke University  20
+                       Eastern Washington University   1
+                               Georgetown University   6
+                     Georgia Institute of Technology   6
+                            Georgia State University   1
+                                  Gonzaga University   2
+                                  Harvard University   1
+                                  Indiana University   4
+   Indiana University-Purdue University Indianapolis   1
+                               Iowa State University   1
+                             Kansas State University   1
+                                 La Salle University   1
+                                   Lehigh University   1
+                          Louisiana State University   6
+                           Louisiana Tech University   1
+                                Marquette University   4
+                                 Marshall University   1
+                           Michigan State University   7
+                           Morehead State University   1
+                             Murray State University   2
+                            Norfolk State University   1
+                     North Carolina State University   2
+                             Northeastern University   1
+                               Ohio State University   5
+                           Oklahoma State University   4
+                             Old Dominion University   1
+                             Oregon State University   2
+                       Pennsylvania State University   1
+                                  Providence College   1
+                                   Purdue University   2
+                                    Rider University   1
+                           Saint Joseph's University   2
+                              Saint Louis University   1
+                  Saint Mary's College of California   2
+                          San Diego State University   2
+                          St. Bonaventure University   1
+                               St. John's University   3
+                                 Stanford University   5
+                                 Syracuse University   8
+                                   Temple University   1
+                          Tennessee State University   1
+                                Texas A&M University   3
+                                   Towson University   1
+                               University of Alabama   3
+                 University of Alabama at Birmingham   1
+                               University of Arizona  13
+                              University of Arkansas   5
+                            University of California   3
+               University of California, Los Angeles  16
+             University of California, Santa Barbara   2
+                            University of Cincinnati   2
+                              University of Colorado   4
+                           University of Connecticut   7
+                                University of Dayton   2
+                         University of Detroit Mercy   1
+                               University of Florida  10
+                               University of Georgia   1
+                               University of Houston   1
+          University of Illinois at Urbana-Champaign   1
+                                  University of Iowa   1
+                                University of Kansas  18
+                              University of Kentucky  22
+                University of Louisiana at Lafayette   1
+                            University of Louisville   4
+                              University of Maryland   3
+                               University of Memphis   3
+                                 University of Miami   2
+                              University of Michigan   6
+                             University of Minnesota   1
+                              University of Missouri   3
+                     University of Nevada, Las Vegas   4
+                          University of Nevada, Reno   3
+                            University of New Mexico   2
+                        University of North Carolina  16
+                            University of Notre Dame   2
+                              University of Oklahoma   1
+                                University of Oregon   2
+                            University of Pittsburgh   2
+                          University of Rhode Island   1
+                              University of Richmond   1
+                   University of Southern California   7
+                             University of Tennessee   5
+                       University of Texas at Austin   9
+                                  University of Utah   3
+                              University of Virginia   3
+                            University of Washington   6
+                             University of Wisconsin   5
+                               University of Wyoming   1
+                           Utah Valley State College   1
+                               Vanderbilt University   2
+                                Villanova University   4
+                    Virginia Commonwealth University   2
+ Virginia Polytechnic Institute and State University   2
+                              Wake Forest University   6
+                         Washington State University   2
+                              Weber State University   1
+                                      Westchester CC   1
+                         Western Carolina University   1
+                         Western Kentucky University   2
+                         Western Michigan University   1
+                            Wichita State University   1
+                                   Xavier University   1
+                                                <NA> 142
+[1] "Number"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00    5.50   13.00   17.75   25.00   99.00   57.00   99.00 
+[1] "Height"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  1.560   1.860   2.010   1.984   2.070   2.230  57.000   0.670 
+[1] "Weight"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  73.03   90.72   99.79  100.50  108.90  139.20   57.00   66.17 
+[1] "Birth_Date"
+        Min.      1st Qu.       Median         Mean      3rd Qu.         Max.        Range 
+"1976-03-19" "1986-03-15" "1989-09-02" "1988-12-19" "1992-04-17" "1996-10-30" "1990-08-14" 
+[1] "Experience"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  0.000   1.000   4.000   4.827   7.000  20.000  57.000  20.000 
+[1] "Rank_Totals"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  1.000   4.000   8.000   8.859  13.000  28.000  57.000  27.000 
+[1] "Age"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  19.00   23.00   26.00   26.59   29.00   39.00   57.00   20.00 
+[1] "Games"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   1.00   31.00   60.00   53.07   76.00   82.00   57.00   81.00 
+[1] "Games_Started"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00    1.00    9.00   25.35   52.00   82.00   57.00   82.00 
+[1] "Minutes_Played"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+      4     421    1176    1221    1944    3125      57    3121 
+[1] "Field_Goals"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    51.5   156.0   193.9   285.0   805.0    57.0   805.0 
+[1] "Field_Goal_Attempts"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0   116.0   339.0   427.9   633.5  1617.0    57.0  1617.0 
+[1] "Field_Goal_Percentage"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  0.000   0.405   0.440   0.446   0.486   1.000  59.000   1.000 
+[1] "X3.Point_Field_Goals"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00    1.00   20.00   42.94   68.00  402.00   57.00  402.00 
+[1] "X3.Point_Field_Goal_Attempts"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0     6.0    69.0   121.2   205.0   886.0    57.0   886.0 
+[1] "X3.Point_Field_Goal_Percentage"
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max.     NA's    Range 
+  0.0000   0.2500   0.3290   0.2962   0.3750   1.0000 103.0000   1.0000 
+[1] "X2.Point_Field_Goals"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    37.0   115.0   151.0   225.5   650.0    57.0   650.0 
+[1] "X2.point_Field_Goal_Attempts"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    78.0   237.0   306.6   450.0  1238.0    57.0  1238.0 
+[1] "X2.Point_Field_Goal_Percentage"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+ 0.0000  0.4435  0.4770  0.4815  0.5290  1.0000 62.0000  1.0000 
+[1] "Effective_Field_Goal_Percentage"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+ 0.0000  0.4580  0.4970  0.4926  0.5330  1.0000 59.0000  1.0000 
+[1] "Free_Throws"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00   21.50   54.00   89.95  125.50  720.00   57.00  720.00 
+[1] "Free_Throw_Attempts"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    29.0    71.0   118.9   168.5   837.0    57.0   837.0 
+[1] "Free_Throw_Percentage"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+ 0.0000  0.6750  0.7560  0.7388  0.8260  1.0000 75.0000  1.0000 
+[1] "Offensive_Rebounds"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00   12.00   32.00   53.16   68.50  395.00   57.00  395.00 
+[1] "Defensive_Rebounds"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    52.5   135.0   169.4   244.0   803.0    57.0   803.0 
+[1] "Total_Rebounds"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    69.0   171.0   222.5   305.5  1198.0    57.0  1198.0 
+[1] "Assists"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    25.0    70.0   111.8   147.0   839.0    57.0   839.0 
+[1] "Steals"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00   11.50   32.00   39.68   58.00  169.00   57.00  169.00 
+[1] "Blocks"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00    5.00   15.00   25.38   33.00  269.00   57.00  269.00 
+[1] "Turnovers"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+   0.00   19.00   57.00   69.48  100.00  374.00   57.00  374.00 
+[1] "Personal_Fouls"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0    41.5   102.0   102.3   157.0   258.0    57.0   258.0 
+[1] "Points"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+    0.0   133.5   422.0   520.7   775.5  2376.0    57.0  2376.0 
+[1] "Rank_Salary"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's   Range 
+  1.000   5.000   9.000   9.643  14.000  23.000  17.000  22.000 
+[1] "Salary"
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max.     NA's    Range 
+    8819   981300  2288000  4437000  5675000 25000000       17 24991181 
