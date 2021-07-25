@@ -1,4 +1,4 @@
-# R_final_project
+
 Team Project - The project involves analyzing data about basketball players from the NBA League in the 2015-2016 season. 
 The motivating question of the analysis is: “In the 2015-2016 season, how do the skills of a player relate to his salary?” We argue that regardless of their positions, most players earn a salary which is directly correlated with their skill levels.
 
